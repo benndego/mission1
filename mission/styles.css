@@ -1,0 +1,50 @@
+
+/* General Styles */
+body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  /* Header Styles */
+  header {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  h1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    color: #006EB6;
+    font-style: italic;
+  }
+  
+  /* Main Content Styles */
+  main {
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Footer Styles */
+  footer {
+    margin-top: 20px;
+  }
+  
+  footer img {
+    width: 150px;
+    height: auto;
+  }
+  
+
